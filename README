@@ -1,0 +1,3 @@
+This is a fuzzing corpus for github.com/inetaf/netaddr. It is used as a submodule there.
+
+(Yes, this README and the license end up as part of the corpus. Oh well.)
